@@ -1,7 +1,6 @@
 <div align="center">
-  <a href="https://swarms.world">
-    <img src="![oddy](https://github.com/user-attachments/assets/2f960275-98ba-46b6-9044-02c23dabed8c)
-" style="margin: 15px; max-width: 300px" width="50%" alt="Logo">
+  <a href="https://x.com/oddysol">
+    <img src="https://github.com/user-attachments/assets/2f960275-98ba-46b6-9044-02c23dabed8c" style="margin: 15px; max-width: 300px" width="50%" alt="Logo">
   </a>
 </div>
 <p align="center">
